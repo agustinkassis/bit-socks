@@ -40,7 +40,8 @@ h2 {
 }
 
 p {
-  margin: 4px;
+  margin: 4px auto;
+  max-width: 900px;
 }
 
 .big {
