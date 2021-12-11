@@ -100,7 +100,7 @@ function App() {
 
         <h2>Datos de la Transacción</h2>
         <p>
-          Fecha de compra: <b>24-05-2020</b>
+          Fecha de compra: <b>12-07-2021 15:07</b>
         </p>
         <p>
           Dirección:
